@@ -18,3 +18,15 @@ Claudia Stefani Menjívar Lara
 
 \- JavaScript
 
+
+
+\## Ejecución
+
+
+
+1\. Instalar dependencias con npm install
+
+2\. Ejecutar node index.js
+
+3\. Abrir http://localhost:3000/estudiantes
+
