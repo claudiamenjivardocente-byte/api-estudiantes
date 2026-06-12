@@ -53,7 +53,7 @@ app.post("/estudiantes", (req, res) => {
   estudiantes.push(nuevoEstudiante);
 
   res.status(201).json({
-    mensaje: "Estudiante agregado correctamente",
+    mensaje: "Estudiante agregado exitosamente",
     estudiante: nuevoEstudiante
   });
 });
