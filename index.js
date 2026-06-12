@@ -1,3 +1,5 @@
+// API REST para la administración de estudiantes
+
 const express = require("express");
 
 const app = express();
